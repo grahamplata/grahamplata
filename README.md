@@ -10,7 +10,7 @@ I'm Graham! I'm a DevOps Engineer based on the east coast. Working for [@facetda
 #### Latest releases I've contributed to
 
 
-- [gofiber/template](https://github.com/gofiber/template) ([v1.6.8](https://github.com/gofiber/template/releases/tag/v1.6.8), 1 week ago) - 🧬 Template engine middleware for Fiber
+- [gofiber/template](https://github.com/gofiber/template) ([v1.6.8](https://github.com/gofiber/template/releases/tag/v1.6.8), 2 weeks ago) - 🧬 Template engine middleware for Fiber
 - [grahamplata/charts](https://github.com/grahamplata/charts) ([quake-kube-0.1.3](https://github.com/grahamplata/charts/releases/tag/quake-kube-0.1.3), 2 weeks ago) - Helm charts managed by grahamplata
 - [pulumi/actions](https://github.com/pulumi/actions) ([v2.2.0](https://github.com/pulumi/actions/releases/tag/v2.2.0), 3 weeks ago) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub!
 - [grahamplata/jest-smoke-signal](https://github.com/grahamplata/jest-smoke-signal) ([0.1.2](https://github.com/grahamplata/jest-smoke-signal/releases/tag/0.1.2), 1 month ago) - send smoke signals to slack from your jest test suite
