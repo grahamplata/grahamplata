@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Graham! I do OPs work for [@facetdata](https://github.com/facetdata) formerly an SRE at [@syapse](https://github.com/syapse)
+I'm Graham! I'm a DevOps Engineer based on the east coast. Working for [@facetdata](https://github.com/facetdata) formerly an SRE at [@syapse](https://github.com/syapse)
 
 #### Recent Repositories created
 - [grahamplata/charts](https://github.com/grahamplata/charts) - Helm charts managed by grahamplata
