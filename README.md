@@ -10,7 +10,7 @@ I'm Graham! I do Ops things for [@facetdata](https://github.com/facetdata) forme
 #### Latest releases I've contributed to
 
 
-- [pulumi/actions](https://github.com/pulumi/actions) ([v3.7.1](https://github.com/pulumi/actions/releases/tag/v3.7.1), 4 days ago) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub!
+- [pulumi/actions](https://github.com/pulumi/actions) ([v3.7.1](https://github.com/pulumi/actions/releases/tag/v3.7.1), 5 days ago) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub!
 - [gofiber/template](https://github.com/gofiber/template) ([v1.6.15](https://github.com/gofiber/template/releases/tag/v1.6.15), 1 week ago) - 🧬 Template engine middleware for Fiber
 - [grahamplata/jest-action-commenter](https://github.com/grahamplata/jest-action-commenter) ([v1.1.1](https://github.com/grahamplata/jest-action-commenter/releases/tag/v1.1.1), 1 month ago) - Comments Jest Coverage Report in GitHub Pull Requests
 - [grahamplata/charts](https://github.com/grahamplata/charts) ([quake-kube-0.1.6](https://github.com/grahamplata/charts/releases/tag/quake-kube-0.1.6), 4 months ago) - Helm charts managed by grahamplata
