@@ -10,8 +10,8 @@ I'm Graham! I do Ops things for [@facetdata](https://github.com/facetdata) forme
 #### Latest releases I've contributed to
 
 
-- [gofiber/template](https://github.com/gofiber/template) ([v1.6.16](https://github.com/gofiber/template/releases/tag/v1.6.16), 5 days ago) - 🧬 Template engine middleware for Fiber
-- [pulumi/actions](https://github.com/pulumi/actions) ([v3.8.0](https://github.com/pulumi/actions/releases/tag/v3.8.0), 6 days ago) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub!
+- [gofiber/template](https://github.com/gofiber/template) ([v1.6.16](https://github.com/gofiber/template/releases/tag/v1.6.16), 6 days ago) - 🧬 Template engine middleware for Fiber
+- [pulumi/actions](https://github.com/pulumi/actions) ([v3.8.0](https://github.com/pulumi/actions/releases/tag/v3.8.0), 1 week ago) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub!
 - [grahamplata/jest-action-commenter](https://github.com/grahamplata/jest-action-commenter) ([v1.1.1](https://github.com/grahamplata/jest-action-commenter/releases/tag/v1.1.1), 1 month ago) - Comments Jest Coverage Report in GitHub Pull Requests
 - [grahamplata/charts](https://github.com/grahamplata/charts) ([quake-kube-0.1.6](https://github.com/grahamplata/charts/releases/tag/quake-kube-0.1.6), 4 months ago) - Helm charts managed by grahamplata
 - [grahamplata/jest-smoke-signal](https://github.com/grahamplata/jest-smoke-signal) ([0.1.2](https://github.com/grahamplata/jest-smoke-signal/releases/tag/0.1.2), 5 months ago) - send smoke signals to slack from your jest test suite
