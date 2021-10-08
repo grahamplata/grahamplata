@@ -3,9 +3,9 @@
 I'm Graham! I do Ops things for [@facetdata](https://github.com/facetdata) formerly an SRE at [@syapse](https://github.com/syapse)
 
 #### Recent Repositories created
+- [grahamplata/sterling-pigeon](https://github.com/grahamplata/sterling-pigeon) - Explorations, mini projects and experiments
 - [grahamplata/upptime](https://github.com/grahamplata/upptime) - 📈 Uptime monitor and status page for Graham Plata, powered by @upptime
 - [grahamplata/jest-action-commenter](https://github.com/grahamplata/jest-action-commenter) - Comments Jest Coverage Report in GitHub Pull Requests
-- [grahamplata/charts](https://github.com/grahamplata/charts) - Helm charts managed by grahamplata
 
 #### Latest releases I've contributed to
 
