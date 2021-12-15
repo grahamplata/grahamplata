@@ -11,7 +11,7 @@ I'm Graham! I do Ops things for [@facetdata](https://github.com/facetdata) forme
 
 
 - [lukeautry/tsoa](https://github.com/lukeautry/tsoa) ([v4.0.0-alpha.0](https://github.com/lukeautry/tsoa/releases/tag/v4.0.0-alpha.0), 2 weeks ago) - Build OpenAPI-compliant REST APIs using TypeScript and Node
-- [pulumi/actions](https://github.com/pulumi/actions) ([v3.12.1](https://github.com/pulumi/actions/releases/tag/v3.12.1), 4 weeks ago) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub!
+- [pulumi/actions](https://github.com/pulumi/actions) ([v3.12.1](https://github.com/pulumi/actions/releases/tag/v3.12.1), 1 month ago) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub!
 - [ghoshnirmalya/nextjs-hasura-boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate) ([0.4.2](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate/releases/tag/0.4.2), 4 months ago) - :art: Boilerplate for building applications using Hasura and Next.js
 - [grahamplata/jest-action-commenter](https://github.com/grahamplata/jest-action-commenter) ([v1.1.1](https://github.com/grahamplata/jest-action-commenter/releases/tag/v1.1.1), 5 months ago) - Comments Jest Coverage Report in GitHub Pull Requests
 - [grahamplata/charts](https://github.com/grahamplata/charts) ([quake-kube-0.1.6](https://github.com/grahamplata/charts/releases/tag/quake-kube-0.1.6), 7 months ago) - Helm charts managed by grahamplata
