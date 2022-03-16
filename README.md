@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Graham! I do Ops things for [@facetdata](https://github.com/facetdata) formerly an SRE at [@syapse](https://github.com/syapse)
+I'm Graham! I did Ops things for [@facetdata](https://github.com/facetdata) and [@syapse](https://github.com/syapse)
 
 #### Recent Repositories created
 - [grahamplata/grim](https://github.com/grahamplata/grim) - A simple CLI tool to explore the Grim Syndicate and Ethereal Transit Authority ecosystem on Solana.
