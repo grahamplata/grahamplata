@@ -10,7 +10,7 @@ I'm Graham! I did Ops things for [@facetdata](https://github.com/facetdata) and 
 #### Latest releases I've contributed to
 
 
-- [lukeautry/tsoa](https://github.com/lukeautry/tsoa) ([v4.0.0](https://github.com/lukeautry/tsoa/releases/tag/v4.0.0), 2 weeks ago) - Build OpenAPI-compliant REST APIs using TypeScript and Node
+- [lukeautry/tsoa](https://github.com/lukeautry/tsoa) ([v4.1.0](https://github.com/lukeautry/tsoa/releases/tag/v4.1.0), 2 days ago) - Build OpenAPI-compliant REST APIs using TypeScript and Node
 - [grahamplata/charts](https://github.com/grahamplata/charts) ([raw-0.2.3](https://github.com/grahamplata/charts/releases/tag/raw-0.2.3), 2 months ago) - Helm charts managed by grahamplata
 - [pulumi/actions](https://github.com/pulumi/actions) ([v3.15.0](https://github.com/pulumi/actions/releases/tag/v3.15.0), 4 months ago) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub!
 - [ghoshnirmalya/nextjs-hasura-boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate) ([0.4.2](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate/releases/tag/0.4.2), 10 months ago) - :art: Boilerplate for building applications using Hasura and Next.js
