@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Graham! I did Ops things for [@facetdata](https://github.com/facetdata) and [@syapse](https://github.com/syapse)
+I'm Graham! I did Ops things for [@syapse](https://github.com/syapse), [@facetdata](https://github.com/facetdata) and now I make vizualizations tools at [@snap](https://github.com/snapchat/)
 
 #### Recent Repositories created
 
