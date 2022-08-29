@@ -11,5 +11,5 @@ I'm Graham! I did Ops things for [@syapse](https://github.com/syapse), [@facetda
 
 
 - [lukeautry/tsoa](https://github.com/lukeautry/tsoa) ([v4.1.1](https://github.com/lukeautry/tsoa/releases/tag/v4.1.1), 1 month ago) - Build OpenAPI-compliant REST APIs using TypeScript and Node
-- [grahamplata/charts](https://github.com/grahamplata/charts) ([raw-0.2.3](https://github.com/grahamplata/charts/releases/tag/raw-0.2.3), 5 months ago) - Helm charts managed by grahamplata
+- [grahamplata/charts](https://github.com/grahamplata/charts) ([raw-0.2.3](https://github.com/grahamplata/charts/releases/tag/raw-0.2.3), 6 months ago) - Helm charts managed by grahamplata
 - [ghoshnirmalya/nextjs-hasura-boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate) ([0.4.2](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate/releases/tag/0.4.2), 1 year ago) - :art: Boilerplate for building applications using Hasura and Next.js
