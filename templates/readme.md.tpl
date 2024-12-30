@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Graham! I did Ops things for [@syapse](https://github.com/syapse), [@facetdata](https://github.com/facetdata) and now I make vizualizations tools at [@snap](https://github.com/snapchat/)
+I'm Graham! I did Ops things for [@syapse](https://github.com/syapse), [@facetdata](https://github.com/facetdata) made BI tools at [@snap 👻](https://github.com/snapchat/) and now I do both for [@rilldata](https://github.com/rilldata/)
 
 #### Recent Repositories created
 
